@@ -1,0 +1,21 @@
+.navbar {
+    background-color:#21222A;
+    min-height:91px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 26px;
+    padding-right: 26px;
+    color:white;
+    font-weight: 600;
+}
+.nav-logo {
+    display:flex;
+    align-items:center;
+    color:#61DAFB;
+    font-size:22.25px;
+    font-weight: 700;
+}
+.nav-logo img {
+    margin-right: 2%;
+}
